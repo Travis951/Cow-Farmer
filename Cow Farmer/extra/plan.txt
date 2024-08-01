@@ -1,0 +1,6 @@
+Baby Step 1: Draw Player (ellipse) that can move around a drawn world with a camera class, that can interact with rigidBodies
+
+Rigid Body Walls        
+                    windowHeight/70
+windowWidth/70                             worldWidth - windowWidth/70
+              worldHeight - windowHeight/70  
